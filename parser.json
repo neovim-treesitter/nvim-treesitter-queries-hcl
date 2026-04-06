@@ -1,0 +1,8 @@
+{
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-hcl",
+  "semver": false,
+  "min_version": null,
+  "lang": "hcl",
+  "location": null,
+  "max_version": null
+}
